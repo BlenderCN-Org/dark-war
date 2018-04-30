@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gui_elements.svg">
+  <title
+     id="title4172">Gui Elements</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       osb:paint="gradient"
+       id="default">
+      <stop
+         id="stop4212"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop4214"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="box_check">
+      <stop
+         style="stop-color:#ff8181;stop-opacity:1"
+         offset="0"
+         id="stop4203" />
+      <stop
+         style="stop-color:#f20000;stop-opacity:1"
+         offset="1"
+         id="stop4205" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4216"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop4162" />
+      <stop
+         style="stop-color:#470000;stop-opacity:1"
+         offset="1"
+         id="stop4164" />
+    </linearGradient>
+    <linearGradient
+       id="button_inside">
+      <stop
+         style="stop-color:#810000;stop-opacity:1"
+         offset="0"
+         id="stop4142" />
+      <stop
+         style="stop-color:#380000;stop-opacity:1"
+         offset="1"
+         id="stop4144" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#button_inside"
+       id="radialGradient4150"
+       cx="174.5"
+       cy="49.862206"
+       fx="174.5"
+       fy="49.862206"
+       r="139.5"
+       gradientTransform="matrix(1.3118784,1.9846393e-8,0,0.16242261,-38.922778,25.146443)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#button_inside"
+       id="radialGradient4178"
+       cx="409"
+       cy="32.362206"
+       fx="409"
+       fy="32.362206"
+       r="27.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7261605,0,0,0.74161059,237.15825,8.3620513)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#box_check"
+       id="radialGradient4207"
+       cx="519.71655"
+       cy="34.161243"
+       fx="519.71655"
+       fy="34.161243"
+       r="20.025251"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67884913,3.2729007e-7,-3.9422903e-7,0.81769066,326.46301,3.2276588)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#box_check"
+       id="radialGradient4209"
+       cx="519.71729"
+       cy="34.161152"
+       fx="519.71729"
+       fy="34.161152"
+       r="20.025255"
+       gradientTransform="matrix(0.69650363,0,0,0.81769054,317.28716,3.2279086)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4216"
+       id="radialGradient4220"
+       cx="189.99998"
+       cy="119.36223"
+       fx="189.99998"
+       fy="119.36223"
+       r="187.07805"
+       gradientTransform="matrix(0.88774739,1.365663e-8,0,0.09087117,21.327994,108.51564)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#button_inside"
+       id="radialGradient4226"
+       cx="444.11801"
+       cy="275.8363"
+       fx="444.11801"
+       fy="275.8363"
+       r="276.12329"
+       gradientTransform="matrix(0.8152999,3.3619235e-8,0,0.14495665,72.287312,235.85199)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="365.85693"
+     inkscape:cy="792.95066"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gui Elements</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="gui"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#radialGradient4150);fill-opacity:1;fill-rule:nonzero;stroke:#890e0e;stroke-width:5.70740366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="menu_button"
+       width="368.4487"
+       height="52.292599"
+       x="5.7756448"
+       y="7.0988975" />
+    <rect
+       style="fill:url(#radialGradient4178);fill-opacity:1;fill-rule:nonzero;stroke:#b80000;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="menu_checkbox"
+       width="50"
+       height="50"
+       x="509.1579"
+       y="7.3622055" />
+    <g
+       id="menu_check">
+      <path
+         inkscape:connector-curvature="0"
+         id="menu_check_02"
+         d="m 696.78611,13.609687 -17,17 -18,18"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient4207);stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="menu_check_01"
+         d="m 661.77214,13.661152 17,16.999999 18.00001,18.000004"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#radialGradient4209);stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="fill:url(#radialGradient4220);fill-opacity:1;fill-rule:nonzero;stroke:#890e0e;stroke-width:5.70740366;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="menu_input"
+       width="368.4487"
+       height="52.292599"
+       x="5.7756448"
+       y="93.215927" />
+    <path
+       style="fill:url(#radialGradient4226);fill-opacity:1;fill-rule:evenodd;stroke:#8b0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116,303.36222 550.99998,0 0,-82.99999 -352.99999,0 c 0,0 -89,1 -144,35 -55,34 -53.99999,47.99999 -53.99999,47.99999 z"
+       id="gui_panel"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccczc" />
+  </g>
+</svg>

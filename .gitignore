@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
+/release
+/temp
+/other/sfx/*.RPP-bak
+/other/sfx/media/*.reapeaks
+/other/bgm/main_theme/*.RPP-bak

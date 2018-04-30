@@ -1,0 +1,1015 @@
+<REAPER_PROJECT 0.1 "5.24/x64" 1482397732
+  RIPPLE 0
+  GROUPOVERRIDE 1 0 0
+  AUTOXFADE 1
+  ENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1.41253754462275
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 5
+  CURSOR 19
+  ZOOM 147.77712818881707 4127 0
+  VZOOMEX 4
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "media" "record"
+  <RECORD_CFG
+    ZXZhdxAAAA==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "J:\Blender\Game Engine\Dark War\sounds\sfx\character"
+  RENDER_PATTERN $track_$item
+  RENDER_FMT 0 1 22050
+  RENDER_1X 0
+  RENDER_RANGE 4 0 0 2 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 32
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 393216
+  TAKELANE 0
+  SAMPLERATE 48000 0 0
+  <RENDER_CFG
+    ZXZhdxAAAA==
+  >
+  LOCK 16384
+  <METRONOME 6 2
+    VOL 1 1
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 19 19
+  SELECTION2 19 19
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  MARKER 1 0 "Character Steps" 1 16793728 1 R
+  MARKER 1 8 "" 1 16793728 1 R
+  MARKER 2 10 "Weapon Shots" 1 29392896 1 R
+  MARKER 2 17.5 "" 1 29392896 1 R
+  MARKER 3 19.5 "Weapon SFX" 1 29393024 1 R
+  MARKER 3 26.5 "" 1 29393024 1 R
+  MARKER 4 28.5 Ambience 1 33521919 1 R
+  MARKER 4 76 "" 1 33521919 1 R
+  <PROJBAY
+  >
+  <TRACK {C6FA51B3-020E-4DAA-BDEB-D443A02A9826}
+    NAME step
+    PEAKCOL 16793728
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 4576 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C6FA51B3-020E-4DAA-BDEB-D443A02A9826}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 439 318 701 216
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS LOSER/MGA_JSLimiter ""
+        -2.000000 200.000000 -0.500000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FAB8CA26-A13C-4997-AE55-104340CCD31E}
+      WAK 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1AECD6DD-0C87-4E61-A608-676A7B5F2D57}
+      IID 111
+      NAME run_wood_1
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {00A84A8E-2BFF-43F3-A4F1-C97DBA83E22F}
+      <SOURCE WAVE
+        FILE "media\step_run_wood_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3A75AD5E-9673-48CA-B44A-C97BD1763C2D}
+      IID 110
+      NAME run_wood_2
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {F73D5EDE-E9A4-4388-9FE7-A46090220E43}
+      <SOURCE WAVE
+        FILE "media\step_run_wood_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {51DA56E8-BF4A-43D6-83C3-2AAF3D5AA702}
+      IID 109
+      NAME walk_wood_1
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {BA514ACF-765E-44D6-A99B-2DA30DFB0E83}
+      <SOURCE WAVE
+        FILE "media\step_walk_wood_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9D927AA1-D3B6-47C5-ABCD-226B67BE002A}
+      IID 108
+      NAME walk_wood_2
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {8F904CAC-A600-4977-B697-4EECAE6E621A}
+      <SOURCE WAVE
+        FILE "media\step_walk_wood_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.24 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BDB52023-4938-40D3-89EA-2F736849C36E}
+      IID 107
+      NAME run_carpet_1
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {1CA83D41-7CA1-44C4-B8CE-5318ABB137F0}
+      <SOURCE WAVE
+        FILE "media\step_run_carpet_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.24 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AE08B8BD-FABA-49B1-90ED-EC4DABA2A74D}
+      IID 106
+      NAME run_carpet_2
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {9344AA05-AE53-40B0-B187-EF1C24A95F12}
+      <SOURCE WAVE
+        FILE "media\step_run_carpet_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.24 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {49E66B2F-0525-4A98-9DB9-DE643D9D4EDA}
+      IID 105
+      NAME walk_carpet_1
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {28FDA77C-EDA6-44D7-9AF7-CAEDBF73D8D7}
+      <SOURCE WAVE
+        FILE "media\step_walk_carpet_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.24 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BA2AB7FD-15EB-4374-82E2-E4D71AF01256}
+      IID 104
+      NAME walk_carpet_2
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {A136E77D-9582-414E-96CE-078BA4C7E209}
+      <SOURCE WAVE
+        FILE "media\step_walk_carpet_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.24 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2737F6FA-2E71-465B-997D-B6D602DF33BC}
+      IID 103
+      NAME run_liquid_1
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {5F31E1A3-1C01-46A1-8B88-215AADF547BF}
+      <SOURCE WAVE
+        FILE "media\step_run_liquid_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.24 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59D47E0F-1ECE-4CE7-98F9-3504DB55A007}
+      IID 102
+      NAME run_liquid_2
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {12704EED-9A8E-45D3-94D9-CCAAD5976D2B}
+      <SOURCE WAVE
+        FILE "media\step_run_liquid_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.221121 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D6919E54-4D6C-4069-894F-52B9DE146269}
+      IID 101
+      NAME walk_liquid_1
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {D5D2E375-141E-4C4A-A59A-C9996F74EECB}
+      <SOURCE WAVE
+        FILE "media\step_walk_liquid_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.218815 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FC1A11E2-B751-4B84-84BF-F70EE44DDC96}
+      IID 100
+      NAME walk_liquid_2
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {BF3CE507-4B11-40DA-BD28-82E1C901E46F}
+      <SOURCE WAVE
+        FILE "media\step_walk_liquid_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0DDCAAB8-FB7E-4156-B5B1-4E898DCA2A01}
+      IID 99
+      NAME run_metal_1
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {97E5D1CA-B2A0-4915-8F3C-EC649C4203EF}
+      <SOURCE WAVE
+        FILE "media\step_run_metal_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59AA12C8-8368-4159-9F7F-5C4087976420}
+      IID 98
+      NAME run_metal_2
+      VOLPAN 1 0 1.000031 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {A8E47418-4368-4302-A5AF-B368B526CA7B}
+      <SOURCE WAVE
+        FILE "media\step_run_metal_2-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9EE3591F-D451-4D05-BD51-421F68009919}
+      IID 97
+      NAME walk_metal_1
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {DDA6D10E-1F5F-4298-A7A6-AEAB19D003C8}
+      <SOURCE WAVE
+        FILE "media\step_walk_metal_1-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 0 0.24 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7EF20DE0-3672-467B-B3C0-26A94DD1056D}
+      IID 96
+      NAME walk_metal_2
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {7A03631A-1FD7-4DBC-B4DC-7DD70FFD231B}
+      <SOURCE WAVE
+        FILE "media\step_walk_metal_2-glued-01.wav"
+      >
+    >
+  >
+  <TRACK {23599EE7-E7AF-49DE-BBDD-CE13C69B1062}
+    NAME shot
+    PEAKCOL 29392896
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 4576 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {23599EE7-E7AF-49DE-BBDD-CE13C69B1062}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 439 318 701 216
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS LOSER/MGA_JSLimiter ""
+        -4.000000 200.000000 -0.500000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {0BD05BC0-D9F1-47BB-B0FF-B459E0C90064}
+      WAK 0
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 0.79594527013136
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 1 0.003 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E4404095-FB3B-4733-B9CA-CA26544FC66B}
+      IID 108
+      NAME flamer
+      VOLPAN 1 0 1.123764 -1
+      SOFFS 0
+      PLAYRATE 1.320411 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {59822C68-22C4-483B-B513-7941D6EF0B87}
+      <SOURCE WAVE
+        FILE "media\flamer-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 0.72698412698413
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 0 0.419519 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7DB77C3F-226D-4CC8-8D69-34D5E622CB00}
+      IID 112
+      NAME grenade_rifle
+      VOLPAN 1 0 1.121684 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABA13D32-81CE-442F-9118-7C1ADFD342F3}
+      <SOURCE WAVE
+        FILE "media\grenade_rifle.wav"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 0.48630385487528
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 1 0.003 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {133BED12-B914-4D12-9A77-1AF5E6D8B934}
+      IID 113
+      NAME pistol.wav
+      VOLPAN 1 0 1.213045 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3A7B917-DD1E-4B0B-9631-AFBEC9B2FB86}
+      <SOURCE WAVE
+        FILE "media\pistol.wav"
+      >
+    >
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 0.73095701365146
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.730957 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D0D9CFAF-A263-4BF1-AA91-EA2D335C06FA}
+      IID 93
+      NAME shotgun
+      VOLPAN 1 0 1.12203 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {B5ED9D59-1444-4C10-B9BB-B0031AFCC2B0}
+      <SOURCE WAVE
+        FILE "media\shotgun_sounds-glued-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 0.37308404719537
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.299707 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D606F9CB-0581-43D0-B17F-4C6954D638AA}
+      IID 92
+      NAME submachinegun
+      VOLPAN 1 0 1.120878 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {287D6293-DA10-4EC0-9F9E-8FCECE750744}
+      <SOURCE WAVE
+        FILE "media\smg_01-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 15
+      SNAPOFFS 0
+      LENGTH 0.63428124109152
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 0 0.634281 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6115A5B1-1BAE-47DE-82E7-53C4FE250A70}
+      IID 105
+      NAME assault_rifle
+      VOLPAN 0.796296 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41DC0D0C-9256-4119-B482-DF5331240419}
+      <SOURCE WAVE
+        FILE "media\assault_rifle.WAV"
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 0.93020408163265
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.930204 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F0E689B2-E0C5-48A6-BACE-94F9EBE21656}
+      IID 114
+      NAME railgun.wav
+      VOLPAN 1 0 1.478756 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B27265DC-2DEB-41B7-8A45-B3DA828B50A7}
+      <SOURCE WAVE
+        FILE "media\railgun.wav"
+      >
+    >
+  >
+  <TRACK {684D5DE6-A542-46BB-920D-30FD261D921D}
+    NAME sfx
+    PEAKCOL 33521792
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 4576 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {684D5DE6-A542-46BB-920D-30FD261D921D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 439 318 701 216
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS LOSER/MGA_JSLimiter ""
+        -2.000000 200.000000 -0.500000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {56E0D29B-3D31-4AFD-9FAF-B8B2BB4B7160}
+      WAK 0
+    >
+    <ITEM
+      POSITION 19.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.001464 0 1 0 0
+      FADEOUT 1 0.15021 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E53A3EEC-0A29-40A6-B12F-6B7DC1265121}
+      IID 90
+      NAME cocking_01
+      VOLPAN 1 0 1.120896 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {986A3710-4A51-44DF-88C3-CA14206163FB}
+      <SOURCE WAVE
+        FILE "media\cocking_gun-glued-01.wav"
+      >
+    >
+    <ITEM
+      POSITION 20.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 0 0.173131 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BE833536-E497-4F34-88E0-80D698955EFB}
+      IID 91
+      NAME cocking_02
+      VOLPAN 1 0 1.12203 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 2
+      GUID {6B56F113-BA2C-4434-A3E6-56DB906A3A9D}
+      <SOURCE WAVE
+        FILE "media\shotgun_sounds-glued-02.wav"
+      >
+    >
+    <ITEM
+      POSITION 21.5
+      SNAPOFFS 0
+      LENGTH 2.21804988662132
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 1.0111 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {09575C2B-A119-499E-9B28-0599E9B20937}
+      IID 101
+      NAME explosion_01
+      VOLPAN 1 0 1.263811 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92FEC20E-C59F-469C-A36C-7C9311A7623B}
+      <SOURCE WAVE
+        FILE "media\explosion.wav"
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 0.20464137476977
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 0 0.181025 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {F4AA4617-230A-4B25-BE6E-CF4F52AC319D}
+      IID 102
+      NAME shell_bounce
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84470328-EB81-4841-9E4C-99D6E0BE855C}
+      <SOURCE WAVE
+        FILE "media\shell.WAV"
+      >
+    >
+    <ITEM
+      POSITION 24.5
+      SNAPOFFS 0
+      LENGTH 0.46730158730159
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 2 0.467302 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {816E55B8-E6B1-40D8-BC9C-5BC457A3308D}
+      IID 103
+      NAME ricochet
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86C0CE5A-49F9-46CD-A4A2-79E413FA8403}
+      <SOURCE WAVE
+        FILE "media\rico.WAV"
+      >
+    >
+    <ITEM
+      POSITION 25.5
+      SNAPOFFS 0
+      LENGTH 0.34993197278912
+      LOOP 0
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.349932 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9E8A72B4-6679-40B5-BB92-292219F6A098}
+      IID 104
+      NAME metal_fall
+      VOLPAN 1 0 1.134788 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C49DDC88-6997-40EA-9518-43A75012527E}
+      <SOURCE WAVE
+        FILE "media\metal_fall.wav"
+      >
+    >
+  >
+  <TRACK {768514C2-C96E-42B8-B8F8-4C949C752036}
+    NAME ambience
+    PEAKCOL 33521919
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 4576 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {768514C2-C96E-42B8-B8F8-4C949C752036}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 439 318 701 216
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS LOSER/MGA_JSLimiter ""
+        -2.000000 200.000000 -0.500000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {4388EAF3-C97D-4DF0-AEEC-96E49A7DD709}
+      WAK 0
+    >
+    <ITEM
+      POSITION 28.5
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8D140AC6-BB2F-4981-90C0-AFC775E11579}
+      IID 140
+      NAME wind
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10130F05-9CEC-44D8-8EE0-67EEDAB51157}
+      <SOURCE WAVE
+        FILE "media\wind-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 33.5
+      SNAPOFFS 0
+      LENGTH 8.67361727328421
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.003 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3078B62F-026D-4660-8A7F-481D4ABC301C}
+      IID 11
+      NAME wind_trees
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.49879797440931 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC94A162-60BE-4128-BD04-58026CF07A7C}
+      <SOURCE WAVE
+        FILE "media\wind_trees-glued-02.wav"
+      >
+    >
+    <ITEM
+      POSITION 42.5
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 1 0.003 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5E24CC91-7891-45CD-9E82-C83AAD1D3DBA}
+      IID 94
+      NAME inside_01
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97A4A292-1C8A-4AF5-97BD-C96618D5E78F}
+      <SOURCE WAVE
+        FILE "media\inside_01-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 1 0.003 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A68B2272-7E97-40FA-87C5-9BCD76B3E11F}
+      IID 6
+      NAME inside_02
+      VOLPAN 1 0 4.194008 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF9CE752-1D89-4FD5-BC60-CBEF443E6933}
+      <SOURCE WAVE
+        FILE "media\synthesised-ambience001-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 57.5
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DF4E2795-FE07-46C2-96A6-E8D207972A60}
+      IID 9
+      NAME disturbing_01
+      VOLPAN 1 0 2.765501 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {394B9A96-0E17-4181-B69F-1DD199DD9F87}
+      <SOURCE WAVE
+        FILE "media\ambience-hall-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 66.5
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003 0 1 0 0
+      FADEOUT 1 0.003 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E635753E-7D0D-487B-93D5-501761EE6572}
+      IID 93
+      NAME disturbing_02
+      VOLPAN 1 0 2.777618 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40EF32B7-0F77-4C03-9929-2A5AF4C4A8BF}
+      <SOURCE WAVE
+        FILE "media\ambience-hell-glued.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>

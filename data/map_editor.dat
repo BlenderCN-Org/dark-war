@@ -1,0 +1,25 @@
+{
+	"tiles" : {
+		"tool_ground" : ["ground_1", "ground_2", "ground_3", "ground_4", "ground_5", "ground_6", "ground_7", "ground_8"],
+		"tool_props" : ["tree_1", "tree_2", "tree_3", "vehicle_1", "vehicle_2", "vehicle_3"],
+		"tool_buildings" : ["building_1", "building_2"],
+		"tool_spawns" : ["spawn_player", "spawn_enemy"]
+	},
+	"gui_strings" : {
+		"tool_ground" : "Paint Ground",
+		"tool_props" : "Paint Scenery Props",
+		"tool_buildings" : "Add Buildings",
+		"tool_spawns" : "Add Character Spawn Points",
+		"help_tool_ground" : "Mouse wheel to select tile, W A S D to pan camera, 1 2 3 4 to select tool, \nF1 to load, F2 to save, right mouse button to erase, middle mouse button \nto rotate",
+		"help_tool_props" : "Mouse wheel to select tile, W A S D to pan camera, 1 2 3 4 to select tool, \nF1 to load, F2 to save, right mouse button to erase, middle mouse button \nto rotate",
+		"help_tool_buildings" : "Mouse wheel to select tile, W A S D to pan camera, 1 2 3 4 to select tool, \nF1 to load, F2 to save, right mouse button to erase, middle mouse button \nto rotate",
+		"help_tool_spawns" : "Mouse wheel to select tile, W A S D to pan camera, 1 2 3 4 to select tool, \nF1 to load, F2 to save, right mouse button to erase, middle mouse button \nto rotate",
+		"file_delete_from_disk" : "Delete current file from disk (CAUTION: This action can't be undone)",
+		"file_refresh_list" : "Refresh the list of maps from game directory",
+		"file_scroll_down" : "Scroll list down",
+		"file_scroll_up" : "Scroll list up",
+		"file_create_new" : "Create and edit a new map with the given name",
+		"file_type_name" : "Type the name of a new map (A-Z, a-z, 0-9, spaces and underlines allowed)"
+		
+	}
+}
