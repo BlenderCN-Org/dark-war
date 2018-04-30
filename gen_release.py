@@ -18,12 +18,13 @@ path_temp = pathlib.Path('./temp/').resolve()
 game_name = 'Dark War'
 
 release_platforms = [
-	'Windows',
-	'Linux'
+	#'Windows',
+	#'Linux',
+	'Dummy'
 	]
 release_machines = [
 	'i386',
-	'AMD64'
+	#'AMD64'
 ]
 
 # Iterates over platforms to release

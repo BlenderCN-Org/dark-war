@@ -32,7 +32,7 @@ def load_database():
 def load_settings():
 	""" Loads the game settings. """
 	
-	ext = '.dat'
+	ext = '.cfg'
 	
 	if not 'settings' in globalDict:
 		globalDict['settings'] = {}

@@ -16,8 +16,7 @@ folders = []
 
 ignore_list = [
 	'__pycache__',
-	'save',
-	'Zeus Wrath'
+	'save'
 	]
 	
 ignore_ext_list = [
