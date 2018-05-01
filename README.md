@@ -1,6 +1,8 @@
 # Dark War - Zeus Wrath
 Dark War - Zeus Wrath is a third person shooter game made with UPBGE. Currently, it's not in a playable state, but it will change soon.
 
+![Dark War Preview](/other/gfx/github_preview.jpg)
+
 Based on an old PC game series ([Dark Wars](https://archive.org/details/dw_3_0) and [Dark War II](https://archive.org/details/dw2_1_3), specifically), the game will bring features not so common on its genre, like:
 - Visual map editor.
 - An easy custom campaign system based on playing common media files (png, ogg, etc) and map coordinates triggering scripts.
