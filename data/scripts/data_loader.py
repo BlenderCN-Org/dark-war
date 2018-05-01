@@ -65,6 +65,8 @@ def load_state():
 		default_player = {
 			'position' : [0, 0, 0], # player_collision world position
 			'direction' : [0, 0], # player_collision rotation, mouse_y
+			'inventory' : [],
+			'equipment' : ['weapon_m249', 'weapon_m4a1'],
 			'mov_v' : 0, # Up and down keys (up=1, down=-1, none=0)
 			'mov_h' : 0, # Left and right keys (right=1, left=-1, none=0)
 			'mov_run' : 0, # Run (on=1, off=0)

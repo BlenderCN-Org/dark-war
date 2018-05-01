@@ -11,3 +11,4 @@ __pycache__/
 /other/sfx/*.RPP-bak
 /other/sfx/media/*.reapeaks
 /other/bgm/main_theme/*.RPP-bak
+/data/*.lnk
